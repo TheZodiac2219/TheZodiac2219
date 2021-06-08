@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheZodiac2219
-- 👀 I’m interested in Robotics and Artificial Intelligence
+- 👀 I’m interested in studying Robotics and Artificial Intelligence
 - 🌱 I’m currently learning Mechatronics Engineering
 - 💞️ I’m looking to collaborate on Programming Content
 - 📫 How to reach me deep92002@gmail.com
